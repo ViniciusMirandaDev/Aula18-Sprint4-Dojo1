@@ -1,0 +1,13 @@
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\bin\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.exe
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\bin\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.deps.json
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\bin\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.runtimeconfig.json
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\bin\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.runtimeconfig.dev.json
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\bin\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.dll
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\bin\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\obj\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.csprojAssemblyReference.cache
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\obj\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\obj\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\obj\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.AssemblyInfo.cs
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\obj\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.dll
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\obj\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula18-Sprint4-Dojo1\obj\Debug\netcoreapp3.1\Aula18-Sprint4-Dojo1.genruntimeconfig.cache
